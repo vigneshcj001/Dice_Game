@@ -1,0 +1,33 @@
+.container{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.dice{
+  text-align: center;
+  display:inline-block;
+}
+body{
+  background-color: #7fffd4;
+}
+h1{
+  margin: 30px;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 5rem;
+}
+p{
+  font-size: 2rem;
+  color:#FD95C9;
+  font-family: 'Bungee Spice', cursive;
+}
+img{
+  width: 80%;
+}
+footer{
+  margin-top: 5%;
+  color: #24B28B;
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
